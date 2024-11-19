@@ -9,5 +9,6 @@ PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 
 [compat]
 ArviZExampleData = "0.1.5"
+DimensionalData = "0.29"
 Distributions = "0.25"
 Documenter = "1"
