@@ -8,6 +8,7 @@ Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 
 [compat]
+ArviZ = "0.12"
 ArviZExampleData = "0.1.5"
 Distributions = "0.25"
 Documenter = "1"
