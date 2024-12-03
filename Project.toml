@@ -1,7 +1,7 @@
 name = "ArviZPythonPlots"
 uuid = "4a6e88f0-2c8e-11ee-0601-e94153f0eada"
 authors = ["Seth Axen <seth@sethaxen.com>"]
-version = "0.1.8"
+version = "0.1.9"
 
 [deps]
 ArviZ = "131c737c-5715-5e2e-ad31-c244f01c1dc7"
